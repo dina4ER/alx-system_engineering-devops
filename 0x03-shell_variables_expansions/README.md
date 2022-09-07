@@ -5,3 +5,4 @@ printing results here.
 Well be dividing environmentvariables.>> README.md
 echo Well be dividing environmentvariables.
 Displays the result of LOVE & BREATH
+Converts number 2 to base 10.
